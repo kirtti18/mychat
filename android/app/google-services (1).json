@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550972157514",
+    "project_id": "mychat-abbcc",
+    "storage_bucket": "mychat-abbcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550972157514:android:36dbb4718a20fd7c2bc0b3",
+        "android_client_info": {
+          "package_name": "com.saswat.ourchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550972157514-gvo3rgi9vb9upgeeu2b7atn6nmpp61uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfYz0zQKXe2s6YZa9uloaMSCliKUjN1Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550972157514-gvo3rgi9vb9upgeeu2b7atn6nmpp61uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
